@@ -1,3 +1,7 @@
+2023. Segmentación. Optimicé ingresos en una tienda de productos alimenticios mediante análisis de datos, comprendiendo la base de clientes y personalizando estrategias de marketing y retención para aumentar su efectividad.
+|Google sheets | Google Slides|
+
+
 Tienda “El mercado”: creando experiencias significativas para el cliente
 
 ![image](https://github.com/Karen-Aguilar/1_Proyecto_segmentacion/assets/151496907/6214aaf4-1a8e-48b6-be90-2a72e1895d98)
