@@ -4,7 +4,9 @@
 
 Tienda “El mercado”: creando experiencias significativas para el cliente
 
-![image](https://github.com/Karen-Aguilar/1_Proyecto_segmentacion/assets/151496907/6214aaf4-1a8e-48b6-be90-2a72e1895d98)
+![image](https://github.com/Karen-Aguilar/1_Proyecto_segmentacion/assets/151496907/81905697-ce3f-4150-bb27-f37ddc0e7f74)
+
+![image](https://github.com/Karen-Aguilar/1_Proyecto_segmentacion/assets/151496907/7d6ab5f2-cdf1-4164-ba34-501210d8a53c)
 
 
 ![image](https://github.com/Karen-Aguilar/1_Proyecto_segmentacion/assets/151496907/9a626d3a-13c2-42aa-a520-17e46455b26f)
